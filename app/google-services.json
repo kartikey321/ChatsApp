@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699698442895",
+    "firebase_url": "https://chatsapp-f514a-default-rtdb.firebaseio.com",
+    "project_id": "chatsapp-f514a",
+    "storage_bucket": "chatsapp-f514a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699698442895:android:fbaf90bc12cfbf5ebe36fa",
+        "android_client_info": {
+          "package_name": "com.example.dell.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699698442895-gjrbd7r51uub71qh0arag2srak9oahfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.chatsapp",
+            "certificate_hash": "f9d5c7839a9632888ba78be7d6fbe9e8e9248f42"
+          }
+        },
+        {
+          "client_id": "699698442895-4req3pkcnj6mpa0qfhfc88n3vmbtg16j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpW8Bj9LH6JsShNw5cYK1LHgfQkwozG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699698442895-4req3pkcnj6mpa0qfhfc88n3vmbtg16j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

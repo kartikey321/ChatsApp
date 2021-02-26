@@ -154,7 +154,9 @@ User user;
                         startActivityForResult(intent,75);
                         break;
                     case R.id.calls:
-                        startActivity(new Intent(MainActivity.this,Video_Call.class));
+//                        Intent i =getPackageManager().getLaunchIntentForPackage("com.example.dell.conferencemeetingapp");
+//                        startActivity(i);
+
                         break;
 
                 }
